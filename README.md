@@ -10,7 +10,9 @@ Subsecond Id is a blazing fast 64-bit and 128-bit superset monotonically increas
 
 ## License
 
-Copyright [AStarship](https://astarship.net); rights reserved under MIT License.
+Copyright [AStarship](https://astarship.net); rights reserved under the PostgreSQL License.
+
+Portions Copyright (c) 1996-2024, The PostgreSQL Global Development Group
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
