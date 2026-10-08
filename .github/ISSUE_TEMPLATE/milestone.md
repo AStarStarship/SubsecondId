@@ -3,7 +3,7 @@ name: Milestone
 about: A project milestone.
 title: ''
 labels: ''
-assignees: 'CookingWithCale'
+assignees: 'AStarCale'
 ---
 # 
 
@@ -37,4 +37,4 @@ Milestone
 
 ## License
 
-Copyright [AStartup](https://astartup.net); all rights reserved.
+Copyright [AStartup](https://astartup.net).

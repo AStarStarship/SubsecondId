@@ -1,5 +1,5 @@
 ---
-"linearid": patch
+"SubsecondId": patch
 ---
 
-Fixed broken LIDNextBuffer function.
+Fixed broken SubsecondIdNextBuffer function.

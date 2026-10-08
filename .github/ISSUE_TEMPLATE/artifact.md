@@ -3,7 +3,7 @@ name: Artifact
 about: A report of an artifact that is left over from a Change.
 title: 'Artifact'
 labels: ''
-assignees: 'CookingWithCale'
+assignees: 'AStarCale'
 ---
 #
 
@@ -15,4 +15,4 @@ assignees: 'CookingWithCale'
 
 ## License
 
-Copyright [AStartup](https://astartup.net); all rights reserved.
+Copyright [AStartup](https://astartup.net).
