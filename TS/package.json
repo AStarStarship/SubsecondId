@@ -1,0 +1,73 @@
+{
+  "name": "@astarship/subsecond-id",
+  "license": "MIT",
+  "version": "0.5.0",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "files": [
+    "dist",
+    "package.json"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    }
+  },
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AStarStarship/SubsecondId.git"
+  },
+  "homepage": "https://github.com/AStarStarship/SubsecondId",
+  "keywords": [
+    "bit-twiddling",
+    "64-bit",
+    "128-bit",
+    "id generation",
+    "id generator",
+    "id",
+    "identifier",
+    "sql",
+    "sharding",
+    "database",
+    "distributed systems",
+    "high performance",
+    "high-performance",
+    "hpc",
+    "low latency",
+    "low-latency",
+    "time-based",
+    "monotonic",
+    "high throughput",
+    "high-throughput",
+    "performance",
+    "optimization",
+    "uid",
+    "unique id",
+    "unique identifier",
+    "unique identifiers",
+    "uuid",
+    "naming",
+    "name server"
+  ],
+  "scripts": {
+    "build": "tsup ./Source/index.ts --format cjs,esm --dts",
+    "test": "jest",
+    "prepublishOnly": "npm run build && npm test",
+    "prepack": "npm run build"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.29.7",
+    "@jest/globals": "^30.2.0",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^20.19.23",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.4.5",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.5.0",
+    "typescript": "^4.9.5"
+  }
+}

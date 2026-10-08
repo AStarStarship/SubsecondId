@@ -3,7 +3,7 @@ name: Mission
 about: A mission with a problem-solution analysis
 title: ''
 labels: ''
-assignees: 'CookingWithCale'
+assignees: 'AStarCale'
 ---
 # 
 
@@ -33,8 +33,8 @@ Mission
 
 ### Sessions
 
-* CookingWithCale/CookingWithCale#9
+* AStarCale/.github#9
 
 ## License
 
-Copyright [AStartup](https://astartup.net); all rights reserved.
+Copyright [AStartup](https://astartup.net).

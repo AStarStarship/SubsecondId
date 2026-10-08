@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: 'CookingWithCale'
+assignees: 'AStarCale'
 ---
 #
 
@@ -55,7 +55,7 @@ RequestFeature
 
 ## Sessions
 
-* CookingWithCale/CookingWithCale#9
+* AStarCale/.github#9
 
 ## A
 
@@ -63,4 +63,4 @@ RequestFeature
 
 ## License
 
-Copyright [AStartup](https://astartup.net); all rights reserved.
+Copyright [AStartup](https://astartup.net).

@@ -3,7 +3,7 @@ name: Incident
 about: A Incident Command System incident; i.e. a real-world event with time, place, etc.
 title: 'Incident @2023-'
 labels: ''
-assignees: 'CookingWithCale'
+assignees: 'AStarCale'
 ---
 #
 
@@ -24,4 +24,4 @@ assignees: 'CookingWithCale'
 
 ## License
 
-Copyright [AStartup](https://astartup.net); all rights reserved.
+Copyright [AStartup](https://astartup.net).

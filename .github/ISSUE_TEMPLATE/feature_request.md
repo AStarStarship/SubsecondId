@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: 'CookingWithCale'
+assignees: 'AStarCale'
 ---
 #
 
@@ -29,8 +29,8 @@ RequestFeature
 
 ## Sessions
 
-* CookingWithCale/CookingWithCale#9
+* AStarCale/.github#9
 
 ## License
 
-Copyright [AStartup](https://astartup.net); all rights reserved.
+Copyright [AStartup](https://astartup.net).
