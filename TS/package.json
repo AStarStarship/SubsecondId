@@ -1,12 +1,16 @@
 {
   "name": "@astarship/subsecond-id",
-  "license": "MIT",
   "version": "0.5.0",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "files": [
     "dist",
-    "package.json"
+    "LICENSE",
+    "README.md"
   ],
   "exports": {
     ".": {
@@ -17,11 +21,15 @@
   },
   "types": "./dist/index.d.ts",
   "sideEffects": false,
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AStarStarship/SubsecondId.git"
   },
   "homepage": "https://github.com/AStarStarship/SubsecondId",
+  "readme": "../README.md",
   "keywords": [
     "bit-twiddling",
     "64-bit",
