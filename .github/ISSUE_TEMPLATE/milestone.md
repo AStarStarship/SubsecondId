@@ -3,38 +3,16 @@ name: Milestone
 about: A project milestone.
 title: ''
 labels: ''
-assignees: 'AStarCale'
+assignees: ''
 ---
-# 
+<https://github.com/AStarStarship/SubsecondId/milestone/N>
 
-## Problem
+## Todo
 
-The problem we must solve to pass this milestone is...
+### Mandatory
 
-## Solution
+1. Foo.
 
-The solution that passes this milestone is...
+### Discretionary
 
-### Requirements
-
-1. The system shall be...
-
-### Problems with Solution
-
-The problems with this solution are...
-
-### File Affected
-
-1. ` **/*.*`
-
-## Hierarchy
-
-* #10
-
-## Tags
-
-Milestone
-
-## License
-
-Copyright [AStartup](https://astartup.net).
+1. Bar.
