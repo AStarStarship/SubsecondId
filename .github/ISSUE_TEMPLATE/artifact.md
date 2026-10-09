@@ -5,14 +5,10 @@ title: 'Artifact'
 labels: ''
 assignees: 'AStarCale'
 ---
-#
+## Description
 
-
+The artifact that is left over from a change is...
 
 ## Files Affected
 
-1. `*.*
-
-## License
-
-Copyright [AStartup](https://astartup.net).
+1. `?`

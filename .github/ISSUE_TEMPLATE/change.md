@@ -5,10 +5,10 @@ title: 'Change'
 labels: ''
 assignees: 'AStarCale'
 ---
-#
+## Problem
 
+The problem that is so great it requires a Change with Change Control Management is...
 
+## Solution
 
-## License
-
-Copyright [AStartup](https://astartup.net).
+The solution is...
